@@ -6,7 +6,7 @@
 
 # Конфигурация
 GITLAB_URL="https://gitlab.example.ru"
-API_TOKEN="your-token"
+API_TOKEN="your-access-token"
 
 # Время начала работы скрипта
 start_time=$(date +%s)
